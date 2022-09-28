@@ -1,5 +1,5 @@
 {
-  "name": "simi-fire-example-redux-store",
+  "name": "monthly-moments-lib",
   "version": "0.1.0",
   "scripts": {
     "prebuild": "rm -r dist/*",

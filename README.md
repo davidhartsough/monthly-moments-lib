@@ -1,5 +1,5 @@
-# simi-fire-example-redux-store
+# MoMo Lib
 
-> SiMi-Fire example Redux store
+> The "Lib" (Redux Store) [in the middle] for Monthly Moments
 
-This is an example template lib of sorts testing the SiMi-Fire functions in a mock Redux store.
+Used in the Monthly Moments web app (React) and mobile app (React Native)

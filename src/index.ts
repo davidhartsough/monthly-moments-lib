@@ -3,8 +3,4 @@ export * from "./main/store/auth/actions";
 export * from "./main/types";
 export * from "./main/utils";
 
-export {
-  initDatabase,
-  handleAuthState,
-  sendResetPasswordEmail,
-} from "simi-fire";
+export { initDatabase, handleAuthState } from "simi-fire";
